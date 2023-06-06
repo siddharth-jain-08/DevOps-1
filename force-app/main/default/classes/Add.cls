@@ -1,6 +1,8 @@
 public class Add 
 {  
-    //this class takes three numbers and adds them to give the final result  
+    //this class takes three numbers and adds them to give the final result
+    //commit 1
+    //commit 2  
 public integer a;
 public integer b;
 public integer c;
