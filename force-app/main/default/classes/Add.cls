@@ -4,6 +4,7 @@ public class Add
     //commit 1
     //commit 2
     // commit 3  
+    // comment 4
 public integer a;
 public integer b;
 public integer c;
